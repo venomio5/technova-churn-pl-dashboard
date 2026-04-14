@@ -24,3 +24,9 @@ Esto es exactamente lo que necesito que entregues:
 Te voy a pasar dos bases de datos que logré extraer de nuestros sistemas. Te advierto:  **la información está sucia** . A veces los asesores escriben mal los estatus, hay formatos de fechas mezclados y creo que faltan algunos datos financieros. Necesito que limpies eso en tu modelo de datos antes de graficar.
 
 ¿Cuento contigo?
+
+---
+
+Preguntas
+
+Hay un hueco en gastos operativos del jueves, 1 de febrero de 2024, lo deje asi, fue un error? Puedo crear una regression linear para poner los gastos con una estimación fundamentada. Igual seria 1 sola vez, a menos de que si pasa en un futuro, quieras un excel donde puedas estimar si es que faltan unos numeros.
