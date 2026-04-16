@@ -30,3 +30,5 @@ Te voy a pasar dos bases de datos que logré extraer de nuestros sistemas. Te ad
 Preguntas
 
 Hay un hueco en gastos operativos del jueves, 1 de febrero de 2024, lo deje asi, fue un error? Puedo crear una regression linear para poner los gastos con una estimación fundamentada. Igual seria 1 sola vez, a menos de que si pasa en un futuro, quieras un excel donde puedas estimar si es que faltan unos numeros.
+
+Cohort analysis?
